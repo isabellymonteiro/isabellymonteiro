@@ -1,7 +1,7 @@
 <div align="center">
   
   ### Hi! I'm Isabelly
-  <p>A front-end web development student currently focused on React and Typescript</p>
+  <p>A Front End developer currently focused on React.js/Typescript, responsive design and web accessibility.</p>
 </div>
 <div align="center">
   <a href = "mailto:isabellymr7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
