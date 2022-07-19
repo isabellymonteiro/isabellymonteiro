@@ -17,11 +17,14 @@
 <div style="display: inline_block" align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=typescript" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=sass" />
+  <img alt="Npm" src="https://img.shields.io/badge/-Npm-000000?style=flat-square&logo=npm" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000000?style=flat-square&logo=yarn" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=410093" />
 </div>
