@@ -28,4 +28,5 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=Node.js" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=PostgreSQL" />
 </div>
