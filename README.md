@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi! I'm Isabelly
+  ### Hi, I'm Isabelly
   <p>A Front End developer currently focused on React.js, Next.js, Typescript, responsive design and web accessibility.</p>
   
 </div>
