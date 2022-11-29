@@ -1,7 +1,7 @@
 <div align="center">
 
   ### Hi, I'm Isabelly
-  <p>A Front End developer currently focused on React.js, Next.js, Typescript, responsive design and web accessibility.</p>
+  <p>A Front End developer currently focused on React.js, Next.js, Typescript and responsive design.</p>
   
 </div>
 <div align="center">
