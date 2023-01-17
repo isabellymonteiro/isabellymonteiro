@@ -9,12 +9,6 @@
   <a href="https://www.linkedin.com/in/isabelly-monteiro-963317176/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br/>
-<div align="center">
-  <a href="https://github.com/isabellymonteiro">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=isabellymonteiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellymonteiro&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<br/>
 <div style="display: inline_block" align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=254bdd" />
