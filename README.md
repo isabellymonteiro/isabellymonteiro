@@ -15,6 +15,9 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=typescript" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000000?style=flat-square&logo=cypress" />
+  <img alt="Apollo Graphql" src="https://img.shields.io/badge/-Apollo_Graphql-000000?style=flat-square&logo=apollographql" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=sass" />
@@ -25,5 +28,4 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=PostgreSQL" />
 </div>
