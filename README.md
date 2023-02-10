@@ -20,7 +20,6 @@
   <img alt="Apollo Graphql" src="https://img.shields.io/badge/-Apollo_Graphql-000000?style=flat-square&logo=apollographql" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=sass" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-000000?style=flat-square&logo=storybook" />
   <img alt="Npm" src="https://img.shields.io/badge/-Npm-000000?style=flat-square&logo=npm" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-000000?style=flat-square&logo=yarn" />
