@@ -26,6 +26,4 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB" />
 </div>
 
-![profile view](https://profile-counter.glitch.me/isabellymonteiro/count.svg)
-
 
