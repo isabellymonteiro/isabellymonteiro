@@ -1,10 +1,4 @@
 <div align="center">
-
-  ### Hi, I'm Isabelly
-  <p>A Front-end developer currently focused on React.js, Next.js, Typescript and responsive design.</p>
-  
-</div>
-<div align="center">
   <a href = "mailto:isabellymr7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isabelly-monteiro-963317176/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
