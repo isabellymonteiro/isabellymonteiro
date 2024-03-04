@@ -17,7 +17,6 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-000000?style=flat-square&logo=storybook" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB" />
 </div>
 
 
