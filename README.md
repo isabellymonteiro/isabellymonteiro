@@ -14,6 +14,7 @@
   <img alt="Apollo Graphql" src="https://img.shields.io/badge/-Apollo_Graphql-000000?style=flat-square&logo=apollographql" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-000000?style=flat-square&logo=MUI" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-000000?style=flat-square&logo=storybook" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
