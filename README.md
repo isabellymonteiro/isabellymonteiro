@@ -10,6 +10,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=typescript" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-000000?style=flat-square&logo=cypress" />
   <img alt="Apollo Graphql" src="https://img.shields.io/badge/-Apollo_Graphql-000000?style=flat-square&logo=apollographql" />
@@ -17,7 +18,6 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styled-components" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-000000?style=flat-square&logo=MUI" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-000000?style=flat-square&logo=storybook" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
 </div>
 
 
