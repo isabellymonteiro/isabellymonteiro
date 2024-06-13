@@ -2,7 +2,9 @@
   <a href = "mailto:isabellymr7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isabelly-monteiro-963317176/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
 <br/>
+
 <div style="display: inline_block" align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5" />
